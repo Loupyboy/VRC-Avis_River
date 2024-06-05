@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: SyncMainMenu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Disable Contacts
+    icon: {fileID: 2800000, guid: d884b7233ee2ff244bd37401385316da, type: 3}
+    type: 102
+    parameter:
+      name: ContactsOFF
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Disable Music
+    icon: {fileID: 2800000, guid: af5bfa776e210994ea56f2aca0a68cee, type: 3}
+    type: 102
+    parameter:
+      name: MusicOff
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: SyncDances
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 538ef79d8f01cb740b4c3ac671a7d55b, type: 2}
+    subParameters: []
+    labels: []
+  - name: Sync Walks
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 8ac65c4951c85cf4fbacd4fb771255e8, type: 2}
+    subParameters: []
+    labels: []

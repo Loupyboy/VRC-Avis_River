@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: colors
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Dress Swap
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: dressswap
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hair Swap
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: hairswap
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hood Swap
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: hoodswap
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shoes Swap
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: shoesswap
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Socks Swap
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: socksswap
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Tail Swap
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: tailswap
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Ear Swap
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: earswap
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

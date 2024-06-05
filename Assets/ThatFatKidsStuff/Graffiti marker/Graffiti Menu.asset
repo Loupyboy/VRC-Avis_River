@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Graffiti Menu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Enable
+    icon: {fileID: 2800000, guid: 230741a2311342543b1c846219484c26, type: 3}
+    type: 102
+    parameter:
+      name: GraffitiSys/Enable
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Hue adjust
+    icon: {fileID: 2800000, guid: ce0250cf7abb04148889cb049e55d77a, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: GraffitiSys/Hue
+    labels: []
+  - name: Black and White
+    icon: {fileID: 2800000, guid: 2f7b7aec50e7f8c41a9687dbf89b42be, type: 3}
+    type: 102
+    parameter:
+      name: GraffitiSys/BnW
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Brightness
+    icon: {fileID: 2800000, guid: 205a50d1f3e56354095df28b8ea6de0e, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: GraffitiSys/Brightness
+    labels:
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+    - name: 
+      icon: {fileID: 0}
+  - name: Emission
+    icon: {fileID: 2800000, guid: 2526f0b2abb01e8429979fc740792bfa, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: GraffitiSys/Emission
+    labels: []
+  - name: Shaking audio
+    icon: {fileID: 2800000, guid: d68514eec600426408eb15c23cae46c8, type: 3}
+    type: 102
+    parameter:
+      name: GraffitiSys/ShakingAudio
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Eraser
+    icon: {fileID: 2800000, guid: 941412130a4f09640be93478cbe05fcb, type: 3}
+    type: 102
+    parameter:
+      name: GraffitiSys/Eraser
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Index gestures
+    icon: {fileID: 2800000, guid: 95af36563d4c2044f8d2989d0a49110e, type: 3}
+    type: 102
+    parameter:
+      name: GraffitiSys/IndexGestures
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

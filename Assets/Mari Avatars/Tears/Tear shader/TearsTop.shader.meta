@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d5b0dbb15b2214b4c83b888eac40ccdf
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _tears_outline: {fileID: 2800000, guid: 1c179afd89acb914e8804af8eb2fcd3c, type: 3}
+  - _tears_mask: {fileID: 2800000, guid: 7902c6050ca3f0d4c80c5e34e5e7fb86, type: 3}
+  - _texcoord: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

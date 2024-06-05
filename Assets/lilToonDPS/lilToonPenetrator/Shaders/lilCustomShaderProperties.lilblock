@@ -1,0 +1,17 @@
+        // Penetrator Properties
+        _Squeeze("squeeze", Range( 0 , 0.2)) = 0.0266
+        _SqueezeDist("SqueezeDist", Range( 0 , 0.1)) = 0.0289
+        _BulgeOffset("BulgeOffset", Range( 0 , 0.3)) = 0.139
+        _BulgePower("BulgePower", Range( 0 , 1)) = 0.00272
+        _Length("Penetrator Length", Range( 0 , 3)) = 0.3541295
+        _EntranceStiffness("EntranceStiffness", Range( 0.01 , 1)) = 0.01
+        _Curvature("Curvature", Range( -1 , 1)) = 0
+        _ReCurvature("ReCurvature", Range( -1 , 1)) = 0
+        _WriggleSpeed("WriggleSpeed", Range( 0.1 , 30)) = 6.2
+        _Wriggle("Wriggle", Range( 0 , 1)) = 0
+        _OrificeChannel("OrificeChannel Please Use 0", Float) = 0
+
+
+        //----------------------------------------------------------------------------------------------------------------------
+        // Custom Properties
+        //_CustomVariable ("Custom Variable", Float) = 0
